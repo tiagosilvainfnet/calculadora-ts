@@ -1,0 +1,14 @@
+{
+  "name": "calculadora",
+  "version": "0.0.1",
+  "description": "Calculadora projeto da turma",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
